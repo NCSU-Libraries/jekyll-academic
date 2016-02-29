@@ -1,0 +1,112 @@
+
+.resume html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+
+.resume article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block;
+  }
+
+
+.resume ol, ul{
+  list-style: none;
+  }
+
+.resume blockquote, q {
+  quotes: none;
+  }
+
+.resume table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.resume body {
+  font: normal normal 400;
+  font-size: 100%;
+
+}
+.resume p {
+  position: relative;
+  left: 10%;
+  margin-right: 0;
+  width: 85%;
+  margin-bottom: 0;
+
+}
+
+.resume code {
+  font: normal normal;
+  font-size: 100%;
+  color: #aaa;
+  padding-right: .5em;
+  text-indent: 0px;
+}
+
+.resume ul {
+  position: relative;
+  left: 33%;
+  width: 65%;
+  margin-bottom: 1.5em;
+}
+
+.resume ul{
+      position: relative;
+      left: 0;
+      width: 100%;
+      margin-top: 0.25em;
+
+  }
+
+
+.resume li ul {
+  position: relative;
+  left: 0;
+  width: 100%;
+  margin-top: 0.25em;
+  text-align: left;
+}
+.resume li {
+  padding-left: 5em;
+}
+.resume h1, h2, h3, h4 {
+  font-weight: 400;
+  width: 65%;
+  }
+
+.resume h1 {
+  text-align: left;
+  font-size: 3em;
+  line-height: 1em;
+  position: relative;
+  left: 33%;
+}
+
+.resume h2 {
+  font-size: 1.5em;
+  color: $highlightcolor;
+  position: relative;
+  text-align: left;
+  margin-top: 1.7em;
+}
+
+.resume h3 {
+  font-size: 1.25em;
+  line-height: 2em;
+  color: $lowlightcolor;
+  position: relative;
+  top: 1.7em;
+  text-align: right;
+  width: 30%;
+}
+
+em {
+  font-weight: bold;
+  font-style: italic;
+}
