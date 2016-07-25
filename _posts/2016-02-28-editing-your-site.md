@@ -5,6 +5,7 @@ excerpt: "Edit your site and make posts "
 modified: 2/29/2016, 8:24:22
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
+category: blog
 ---
 
 This article will cover the basics on how to edit the features of your site and make new posts. To do this, you will need a text editor. Here are some examples:
