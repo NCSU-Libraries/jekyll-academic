@@ -1,8 +1,0 @@
-site_name: Jekyll Academic
-pages:
-- Getting Started: index.md
-- Advanced Features: advanced.md
-- Additional Resources: resources.md
-- About: about.md
-
-theme: journal
