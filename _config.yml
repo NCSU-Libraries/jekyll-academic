@@ -3,7 +3,7 @@
 title:            Site Title
 locale:           en_US
 logo:
-url:		
+url: http://ncsu-libraries.github.io/jekyll-academic/
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Your Name
