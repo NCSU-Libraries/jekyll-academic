@@ -4,5 +4,5 @@ This template utilizes Jekyll, an open source static website generator, as well 
 ####Why Should I Use This?
 By using this template you will have a website that is well designed, easy to maintain, free to host and easy to update. While there are many options out there for personal and professional websites, most are dependant on the platform on which they were built, and cannot be easily migrated. This template, while built for Github Pages integration, provides flexibility should you choose to host it elsewhere.
 
-##[Getting Started Guide](http://ncsu-libraries.github.io/jekyll-academic/)
-Complete documentation for getting started as well as advanced features of Jekyll Academic can be fount at [http://ncsu-libraries.github.io/jekyll-academic/](http://ncsu-libraries.github.io/jekyll-academic/). 
+##[Getting Started Guide](https://pages.github.ncsu.edu/tdstoffe/jekyll-academic-docs/)
+Complete documentation for getting started as well as advanced features of Jekyll Academic can be fount at [https://pages.github.ncsu.edu/tdstoffe/jekyll-academic-docs/](https://pages.github.ncsu.edu/tdstoffe/jekyll-academic-docs/). 
