@@ -4,7 +4,7 @@ title:            Site Title
 locale:           en_US
 logo:
 # If using a Github User page (i.e. username.github.io) to host your site, delete the default url that is below.
-url: 
+url: /jekyll-academic
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Your Name
