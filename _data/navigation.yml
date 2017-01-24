@@ -2,14 +2,11 @@
 - title: Home
   url: /
 
-- title: About Me
-  url: /about/
-
 - title: Presentations
   url: /presentations/
 
 - title: Resume
   url: /resume/
-  
-- title: Blog Archive
-  url: /archive/
+
+- title: Blog
+  url: /blog/
