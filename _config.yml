@@ -2,7 +2,7 @@
 
 title:            Site Title
 locale:           en_US
-logo:
+logo:             # filename of a logo image that has been placed into your images directory 
 # If using a Github User page (i.e. username.github.io) to host your site, delete the default url that is below.
 url: /jekyll-academic
 # Enter the following platform usernames if you would like for them to appear on your site.
@@ -11,22 +11,21 @@ owner:
   avatar: bio-photo.jpg
   bio: "A brief description of yourself."
   email: #emailaddress
-  disqus-shortname:
   twitter: #username
   facebook: #username
+  instagram: #username
+  linkedin: #username
+  github: #username
+  researchgate: #username
+  mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    ad-client:
-    ad-slot:
     scholar: #id
   bing-verify:
-  github: #username
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
   xing: #username
-  instagram: #username
   lastfm: #username
   tumblr: #username
   pinterest: #username
@@ -38,8 +37,7 @@ owner:
   weibo: #username
   flickr: #username
   codepen: #username
-  researchgate: #username
-  mendeley: #username
+  disqus-shortname:
 
 #DO NOT EDIT BEYOND THIS POINT
 # Jekyll configuration
