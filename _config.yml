@@ -2,9 +2,9 @@
 
 title:            Site Title
 locale:           en_US
-logo:             # filename of a logo image that has been placed into your images directory 
+logo:             # filename of a logo image that has been placed into your images directory
 # If using a Github User page (i.e. username.github.io) to host your site, delete the default url that is below.
-url: /jekyll-academic
+url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Your Name
