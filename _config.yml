@@ -3,19 +3,20 @@
 title:            Site Title
 locale:           en_US
 logo:             # filename of a logo image that has been placed into your images directory
-# If using a Github User page (i.e. username.github.io) to host your site, delete the default url that is below.
-# url:
+
+# Uncomment the 'yes' below if you would like for a creative commons license to be displayed in the footer of your site.
+cc: #yes
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Your Name
   avatar: bio-photo.jpg
   bio: "A brief description of yourself."
   email: #emailaddress
+  # Do not include the @ symbol in your Twitter username
   twitter: #username
-  facebook: #username
-  instagram: #username
   linkedin: #username
   github: #username
+  orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
   google:
@@ -23,6 +24,8 @@ owner:
     analytics:
     verify:
     scholar: #id
+  facebook: #username
+  instagram: #username
   bing-verify:
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
   xing: #username
