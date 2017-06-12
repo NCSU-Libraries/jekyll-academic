@@ -1,11 +1,9 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
-logo:             # filename of a logo image that has been placed into your images directory
+title: Site Title
+locale: en_US
+logo: # filename of a logo image that has been placed into your images directory
 
-# Uncomment the 'yes' below if you would like for a creative commons license to be displayed in the footer of your site.
-cc: #yes
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Your Name
@@ -41,6 +39,11 @@ owner:
   flickr: #username
   codepen: #username
   disqus-shortname:
+
+  # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
+creative-commons:
+  cc-by: #yes
+  cc-by-nc: #yes
 
 #DO NOT EDIT BEYOND THIS POINT
 # Jekyll configuration
