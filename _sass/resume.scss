@@ -13,19 +13,9 @@
   display: block;
   }
 
-
-.resume ol, ul{
-  list-style: none;
-  }
-
 .resume blockquote, q {
   quotes: none;
   }
-
-.resume table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
 
 .resume body {
   font: normal normal 400;
@@ -34,17 +24,15 @@
 }
 .resume p {
   position: relative;
-  left: 10%;
   margin-right: 0;
-  width: 85%;
-  margin-bottom: 0;
+  width: 100%;
 
 }
 
 .resume code {
   font: normal normal;
-  font-size: 100%;
-  color: #aaa;
+  float: right;
+  color: #000;
   padding-right: .5em;
   text-indent: 0px;
 }
@@ -61,7 +49,6 @@
       left: 0;
       width: 100%;
       margin-top: 0.25em;
-
   }
 
 
@@ -73,19 +60,16 @@
   text-align: left;
 }
 .resume li {
-  padding-left: 5em;
+  margin-left: 2em;
 }
 .resume h1, h2, h3, h4 {
   font-weight: 400;
-  width: 65%;
   }
 
 .resume h1 {
-  text-align: left;
-  font-size: 3em;
-  line-height: 1em;
-  position: relative;
-  left: 33%;
+  text-align: center;
+  margin-bottom: 0px;
+  color: $highlightcolor
 }
 
 .resume h2 {
@@ -94,6 +78,10 @@
   position: relative;
   text-align: left;
   margin-top: 1.7em;
+}
+// Fix issue with the first content area floating up above border on print
+div#resume.resume{
+  margin-top: 50px;
 }
 
 .resume h3 {
@@ -105,8 +93,29 @@
   text-align: right;
   width: 30%;
 }
+.resume h4 {
+  font-size: 18px;
+  margin-bottom: -25px;
+  font-family: inherit;
+}
 
 em {
   font-weight: bold;
   font-style: italic;
+}
+
+.button {
+    background-color: $highlightcolor;
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    float: right;
+}
+
+a:hover {
+  color: $highlightcolor;
 }
