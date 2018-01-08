@@ -56,6 +56,7 @@ sass:
   style: compressed
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 kramdown:
   auto_ids: true

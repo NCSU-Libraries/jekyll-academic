@@ -33,6 +33,8 @@ GEM
       octokit (~> 4.2)
     jekyll-sass-converter (1.5.1)
       sass (~> 3.4)
+    jekyll-seo-tag (2.4.0)
+      jekyll (~> 3.3)
     jekyll-sitemap (1.1.1)
       jekyll (~> 3.3)
     jekyll-watch (2.0.0)
@@ -87,6 +89,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.0)
   jekyll-gist
+  jekyll-seo-tag
   jekyll-sitemap
   octopress
 
