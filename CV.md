@@ -1,5 +1,5 @@
 ---
-layout: CV
+layout: cv
 ---
 
 ## Currently
