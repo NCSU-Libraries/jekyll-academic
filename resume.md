@@ -14,13 +14,13 @@ PhD Student/Graduate Research Assistant
 __Mississippi State University ("State")__
 :   *Current*
 :   Doctorate of Philosophy in Forest Resources—Wildlife, Fisheries and Aquaculture
-:   Dissertation Title: TBD
+Dissertation Title: TBD
 
 
 __University of Mississippi ("Ole Miss")__
 :   *2017*
 :   Master of Science in Biological Sciences
-:   Thesis Title: [The Effect of Road Crossings on Stream-associated Salamanders within Holly Springs National Forest](https://search.proquest.com/pqdtglobal/docview/1925911777/previewPDF/C545681D238C470FPQ/1?accountid=34815)
+Thesis Title: [The Effect of Road Crossings on Stream-associated Salamanders within Holly Springs National Forest](https://search.proquest.com/pqdtglobal/docview/1925911777/previewPDF/C545681D238C470FPQ/1?accountid=34815)
 
 
 __University of North Alabama ("TUNA")__
