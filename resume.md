@@ -44,19 +44,19 @@ __Graduate Teaching Assistant | Ole Miss__ | _2014-2016_
 
 _2018_
 
-    [Nutrient and sediment runoff from agricultural landscapes with varying suites of conservation practices in the Mississippi Alluvial Valley.](http://www.jswconline.org/content/73/1/75.short) Baker et al. Journal of Soil and Water Conservation 73(1):75-85.
+   [Nutrient and sediment runoff from agricultural landscapes with varying suites of conservation practices in the Mississippi Alluvial Valley.](http://www.jswconline.org/content/73/1/75.short) Baker et al. Journal of Soil and Water Conservation 73(1):75-85.
   
 _2017_
 
-    [Watersheds: Role, importance, & stewardship.](http://extension.msstate.edu/sites/default/files/publications/publications/p3082.pdf) Aldridge & Baker. Mississippi State University Extension Service Publications p3082.
+[Watersheds: Role, importance, & stewardship.](http://extension.msstate.edu/sites/default/files/publications/publications/p3082.pdf) Aldridge & Baker. Mississippi State University Extension Service Publications p3082.
 
-    [Water: Sink to sea](http://extension.msstate.edu/sites/default/files/publications/publications/p3074.pdf) Baker, Omer, & Aldridge. Mississippi State University Extension Service Publications p3074.
+[Water: Sink to sea](http://extension.msstate.edu/sites/default/files/publications/publications/p3074.pdf) Baker, Omer, & Aldridge. Mississippi State University Extension Service Publications p3074.
 
 _2016_
 
-    [Water: Availability and use.](http://extension.msstate.edu/sites/default/files/publications/publications/p3011.pdf) Baker, Aldridge, & Omer. Mississippi State University Extension Service Publications p3011.
+[Water: Availability and use.](http://extension.msstate.edu/sites/default/files/publications/publications/p3011.pdf) Baker, Aldridge, & Omer. Mississippi State University Extension Service Publications p3011.
 
-    [Concerns about lon-term water security.](http://extension.msstate.edu/sites/default/files/publications/publications/p2997.pdf) Baker, Aldridge, & Omer. Mississippi State University Extension Service Publications p2997.
+[Concerns about lon-term water security.](http://extension.msstate.edu/sites/default/files/publications/publications/p2997.pdf) Baker, Aldridge, & Omer. Mississippi State University Extension Service Publications p2997.
 
 
 
