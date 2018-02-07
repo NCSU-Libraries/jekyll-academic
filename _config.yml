@@ -1,31 +1,31 @@
 # Site wide configuration
 
-title: Site Title
+title: Caleb A. Aldridge
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Caleb A. Aldridge
   avatar: bio-photo.jpg
   bio: "A brief description of yourself."
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
-  github: #username
+  github: aldridgecaleb
   orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
-  mendeley: #username
+  researchgate: Caleb_Aldridge
+  mendeley: caleb-aldridge
   google:
     plus: #username
     analytics:
     verify:
-    scholar: #id
-  facebook: #username
-  instagram: #username
+    scholar: 5LsAk6oAAAAJ&hl=en
+  facebook: caleb.aldridge
+  instagram: aldridgecaleb
   bing-verify:
-  stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
+  stackoverflow: 5557488/c-aldridge
   xing: #username
   lastfm: #username
   tumblr: #username
@@ -33,7 +33,7 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: #username
+  youtube: Caleb Aldridge
   soundcloud: #username
   weibo: #username
   flickr: #username
