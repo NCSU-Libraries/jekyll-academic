@@ -13,10 +13,10 @@ This is my first blog post on my new website and I wanted to do a "test run" wit
 ![](IMG_20160801_130145253.jpg)
 *The Court of The Patriarchs.*
 
-![](aldridgecaleb.github.io/images/IMG_20160801_164453487.jpg)
+![]({% static 'aldridgecaleb.github.io/images/IMG_20160801_164453487.jpg' %})
 *Walking up East Zion Canyon Overlook Trail.*
 
-![](aldridgecaleb.github.io/images/IMG_20160801_164322930.jpg)
+![]('aldridgecaleb.github.io/images/IMG_20160801_164322930.jpg')
 *Stopping for a little break.*
 
 ![](aldridgecaleb.github.io/images/IMG_20160801_162842445.jpg)
