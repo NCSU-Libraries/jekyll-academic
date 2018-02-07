@@ -2,8 +2,8 @@
 layout: resume
 ---
 
-Aldridge_CV_2018-01-18.pdf
-## Currently
+[Click to download my full CV](https://github.com/AldridgeCaleb/aldridgecaleb.github.io/images/Aldridge_CV_2018-01-18.pdf)
+## Current
 
 PhD Student/Graduate Research Assistant
 
@@ -46,7 +46,7 @@ __Graduate Teaching Assistant__, University of Mississippi
 ## Peer-reviewed Research and Extension Articles
 
 2018
-    [Nutrient and sediment runoff from agricultural landscapes with varying suites of conservation practices in the Mississippi Alluvial Valley.](http://www.jswconline.org/content/73/1/75.short) Baker et al. *Journal of Soil and Water Conservation 73(1):75-85.*
+    [Nutrient and sediment runoff from agricultural landscapes with varying suites of conservation practices in the Mississippi Alluvial Valley.](http://www.jswconline.org/content/73/1/75.short) Baker et al. *Journal of Soil and Water Conservation 73(1):75-85.
 
 
 
