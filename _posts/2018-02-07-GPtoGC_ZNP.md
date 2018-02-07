@@ -10,7 +10,7 @@ category: blog
 
 This is my first blog post on my new website and I wanted to do a "test run" with some pictures (with captions) from a trip I did with my paternal grandparents in the summer of 2016.
 
-![](aldridgecaleb.github.io/images/IMG_20160801_130145253.jpg)
+![](IMG_20160801_130145253.jpg)
 *The Court of The Patriarchs.*
 
 ![](aldridgecaleb.github.io/images/IMG_20160801_164453487.jpg)
