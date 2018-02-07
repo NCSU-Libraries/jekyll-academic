@@ -1,70 +1,56 @@
 ---
-layout: resume
+layout: CV
 ---
 ## Currently
 
-Current Position Description
+PhD Student/Graduate Research Assistant
+
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+'Current'
+__Mississippi State University ("State")__
+Doctorate of Philosophy in Forest Resources
+Concentration: Wildlife, Fisheries and Aquaculture
+Dissertation Title: TBD
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
-
-## Awards
+'2017'
+__University of Mississippi ("Ole Miss")__
+Master of Science in Biological Sciences
+Thesis Title: [The Effect of Road Crossings on Stream-associated Salamanders within Holly Springs National Forest](https://search.proquest.com/pqdtglobal/docview/1925911777/previewPDF/C545681D238C470FPQ/1?accountid=34815)
 
 `2012`
-Name of Award, Organization 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a>
+__University of North Alabama ("TUNA")__
+Bachelor of Science in Biology 
 
 
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Graduate Research Assistant__, Mississippi State University
 
-- Task
-- Task
+- Exploratory Data Analysis
+- Managemetn Decision Web App
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`2016-2018`
+__Research Associate__, Mississippi State University 
 
-- Task
-- Task
+- Manage NRCS 201-202 Water Quality Project
+- Data Analysis and Manuscript Preparation
+
+`2014-2016`
+__Graduate Teaching Assistant__, University of Mississippi
+
+### Peer-reviewed Research and Extension Articles
+
+`2018`
+[Nutrient and sediment runoff from agricultural landscapes with varying suites of conservation practices in the Mississippi Alluvial Valley.](http://www.jswconline.org/content/73/1/75.short) Baker et al. **Journal of Soil and Water Conservation 73(1):75-85.**
+
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: 2018-02-07 -->
 
 
