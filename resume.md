@@ -2,6 +2,7 @@
 layout: resume
 ---
 
+Aldridge_CV_2018-01-18.pdf
 ## Currently
 
 PhD Student/Graduate Research Assistant
