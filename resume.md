@@ -30,7 +30,7 @@ Degree: Bachelor of Science in Biology
 __Graduate Research Assistant__, Mississippi State University
 Current
 - Exploratory Data Analysis
-- Managemetn Decision Web App
+- Management Decision Web Application
 
 __Research Associate__, Mississippi State University 
 2016-2018
