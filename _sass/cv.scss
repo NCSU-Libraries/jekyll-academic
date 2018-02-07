@@ -1,5 +1,5 @@
 
-.resume html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+.cv html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
   margin: 0;
   padding: 0;
   border: 0;
@@ -9,27 +9,27 @@
 }
 
 
-.resume article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+.cv article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
   display: block;
   }
 
-.resume blockquote, q {
+.cv blockquote, q {
   quotes: none;
   }
 
-.resume body {
+.cv body {
   font: normal normal 400;
   font-size: 100%;
 
 }
-.resume p {
+.cv p {
   position: relative;
   margin-right: 0;
   width: 100%;
 
 }
 
-.resume code {
+.cv code {
   font: normal normal;
   float: right;
   color: #000;
@@ -37,14 +37,14 @@
   text-indent: 0px;
 }
 
-.resume ul {
+.cv ul {
   position: relative;
   left: 33%;
   width: 65%;
   margin-bottom: 1.5em;
 }
 
-.resume ul{
+.cv ul{
       position: relative;
       left: 0;
       width: 100%;
@@ -52,27 +52,27 @@
   }
 
 
-.resume li ul {
+.cv li ul {
   position: relative;
   left: 0;
   width: 100%;
   margin-top: 0.25em;
   text-align: left;
 }
-.resume li {
+.cv li {
   margin-left: 2em;
 }
-.resume h1, h2, h3, h4 {
+.cv h1, h2, h3, h4 {
   font-weight: 400;
   }
 
-.resume h1 {
+.cv h1 {
   text-align: center;
   margin-bottom: 0px;
   color: $highlightcolor
 }
 
-.resume h2 {
+.cv h2 {
   font-size: 1.5em;
   color: $highlightcolor;
   position: relative;
@@ -80,11 +80,11 @@
   margin-top: 1.7em;
 }
 // Fix issue with the first content area floating up above border on print
-div#resume.resume{
+div#cv.cv{
   margin-top: 50px;
 }
 
-.resume h3 {
+.cv h3 {
   font-size: 1.25em;
   line-height: 2em;
   color: $lowlightcolor;
@@ -93,7 +93,7 @@ div#resume.resume{
   text-align: right;
   width: 30%;
 }
-.resume h4 {
+.cv h4 {
   font-size: 18px;
   margin-bottom: -25px;
   font-family: inherit;
