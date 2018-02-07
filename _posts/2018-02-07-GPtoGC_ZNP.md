@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Zion National Park
-excerpt: Pcitures from our _Grand_/parents at the _Grand_ Canyon trip, 2016
+excerpt: Pictures from "Grandparents to the Grand Canyon" (2016)
 modified: 2018-02-07, 16:00
 tags: [National Parks, NPS, Zion NP, Grandparents]
 comments: true
