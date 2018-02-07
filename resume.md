@@ -2,7 +2,7 @@
 layout: resume
 ---
 
-[Click to download my full CV](https://github.com/AldridgeCaleb/aldridgecaleb.github.io/blob/master/images/Aldridge_CV_2018-02-07.pdf)
+> [Click to download my full CV](https://github.com/AldridgeCaleb/aldridgecaleb.github.io/blob/master/images/Aldridge_CV_2018-02-07.pdf)
 
 ## Current Position
 
@@ -30,20 +30,17 @@ Bachelor of Science in Biology
 
 ## Employment
 
-__Graduate Research Assistant__  
-__Mississippi State University__  
+__Graduate Research Assistant | State__  
 _Current_  
 - Exploratory Data Analysis  
 - Management Decision Web Application  
   
-__Research Associate__  
-__Mississippi State University__  
+__Research Associate | State__  
 _2016-2018_  
 - Manage NRCS 201-202 Water Quality Project  
-- Data Analysis and Manuscript Preparation
+- Data Analysis and Manuscript Preparation  
   
-__Graduate Teaching Assistant__  
-__University of Mississippi__  
+__Graduate Teaching Assistant | Ole Miss__  
 _2014-2016_  
 - Prepared and Taught Undergraduate Biology Labs  
 
