@@ -12,7 +12,8 @@ sitemap: false
 */
 
 // Partials
-@import "../accent";
+$highlightcolor: {{ site.highlight-color }};
+$lowlightcolor: {{ site.lowlight-color }};
 @import "variables";
 @import "grid";
 @import "mixins";
