@@ -2,7 +2,7 @@
 
 title: Caleb A. Aldridge
 locale: en_US
-logo: sitelogo.jpg
+logo: #none
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Caleb A. Aldridge
@@ -23,7 +23,7 @@ owner:
     scholar: 5LsAk6oAAAAJ&hl=en
   facebook: caleb.aldridge
   instagram: aldridgecaleb
-  bing-verify:
+  bing-verify: #username
   stackoverflow: 5557488/c-aldridge
   xing: #username
   lastfm: #username
