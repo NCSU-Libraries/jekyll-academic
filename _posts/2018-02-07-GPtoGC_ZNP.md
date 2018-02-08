@@ -13,7 +13,7 @@ This is my first blog post on my new website and I wanted to do a "test run" wit
 ![Court Patriarchs](/images/IMG_20160801_130145253.jpg)
 *The Court of The Patriarchs.*
 
-![Canyon Overlook Trail](/images/The Naturalist.jpg)
+![Canyon Overlook Trail](/images/IMG_20160801_164453487.jpg)
 *Walking up East Zion Canyon Overlook Trail.*
 
 ![Break](/images/IMG_20160801_164322930.jpg)
