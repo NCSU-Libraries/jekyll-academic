@@ -13,38 +13,38 @@ PhD Student/Graduate Research Assistant
 ## Education
 
 __Mississippi State University ("State")__ | _Current_  
-    Doctorate of Philosophy in Wildlife, Fisheries and Aquaculture  
+    Doctor of Philosophy | Wildlife, Fisheries and Aquaculture  
     Dissertation Title: TBD  
 
 __University of Mississippi ("Ole Miss")__ | _2017_  
-    Master of Science in Biological Sciences  
+    Master of Science | Biological Sciences  
     Thesis Title: [The Effect of Road Crossings on Stream-associated Salamanders within Holly Springs National Forest](https://search.proquest.com/pqdtglobal/docview/1925911777/previewPDF/C545681D238C470FPQ/1?accountid=34815)  
     
 __University of North Alabama ("TUNA")__ | _2012_  
-    Bachelor of Science in Biology  
+    Bachelor of Science | General Biology  
 
 
 
 ## Employment
 
 __Graduate Research Assistant | State__ | _Current_  
-    Exploratory Data Analysis  
-    Management Decision Web Application  
+    Conducting exploratory data analysis  
+    Building a management decision web application  
   
 __Research Associate | State__ | _2016-2018_  
-    Manage NRCS 201-202 Water Quality Project  
-    Data Analysis and Manuscript Preparation  
+    Managed NRCS 201-202 water quality project  
+    General Data Analysis and Manuscript Preparation  
   
 __Graduate Teaching Assistant | Ole Miss__ | _2014-2016_  
-    Prepared and Taught Undergraduate Biology Labs  
-
+    Prepared and taught undergraduate Biology labs  
+    Guest lectured, proctored exams, and assigned grades
 
 
 ## Research and Extension Articles
 
 _2018_
 
-   [Nutrient and sediment runoff from agricultural landscapes with varying suites of conservation practices in the Mississippi Alluvial Valley.](http://www.jswconline.org/content/73/1/75.short) Baker et al. Journal of Soil and Water Conservation 73(1):75-85.
+[Nutrient and sediment runoff from agricultural landscapes with varying suites of conservation practices in the Mississippi Alluvial Valley.](http://www.jswconline.org/content/73/1/75.short) Baker et al. Journal of Soil and Water Conservation 73(1):75-85.
   
 _2017_
 
@@ -62,4 +62,4 @@ _2016_
 
 <!-- ### Footer
 
-Last updated: 2018-02-07 -->
+Last updated: 2018-02-09 -->
