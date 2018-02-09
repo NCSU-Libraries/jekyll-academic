@@ -13,15 +13,15 @@ PhD Student/Graduate Research Assistant
 ## Education
 
 __Mississippi State University ("State")__ | _Current_  
-    Doctor of Philosophy | Wildlife, Fisheries and Aquaculture  
+    Doctor of Philosophy — Wildlife, Fisheries and Aquaculture  
     Dissertation Title: TBD  
 
 __University of Mississippi ("Ole Miss")__ | _2017_  
-    Master of Science | Biological Sciences  
+    Master of Science — Biological Sciences  
     Thesis Title: [The Effect of Road Crossings on Stream-associated Salamanders within Holly Springs National Forest](https://search.proquest.com/pqdtglobal/docview/1925911777/previewPDF/C545681D238C470FPQ/1?accountid=34815)  
     
 __University of North Alabama ("TUNA")__ | _2012_  
-    Bachelor of Science | General Biology  
+    Bachelor of Science — General Biology  
 
 
 
