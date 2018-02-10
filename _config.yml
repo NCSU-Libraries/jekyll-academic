@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Caleb A. Aldridge
+title: __Caleb A. Aldridge__
 locale: en_US
 logo: #none
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Caleb A. Aldridge
+  name: __Caleb A. Aldridge__
   avatar: The Naturalist.jpg
   bio: "PhD Student and Graduate Research Assistant"
   email: caa134@msstate.edu
