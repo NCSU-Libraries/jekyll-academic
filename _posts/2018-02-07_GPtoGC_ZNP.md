@@ -2,7 +2,7 @@
 layout: post
 title: Zion National Park
 excerpt: Pictures from "Grandparents to the Grand Canyon" (2016)
-modified: 2018-02-07, 16:00
+modified: 2/7/2018, 16:00:00
 tags: [National Parks, NPS, Zion NP, Grandparents]
 comments: true
 category: blog
