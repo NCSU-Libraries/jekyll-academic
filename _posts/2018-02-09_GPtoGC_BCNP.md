@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bryce Canyon National Park
-excerpt: Pictures from "Grandparents to the Grand Canyon" (2016)
+excerpt: More Pictures from "Grandparents to the Grand Canyon" (2016)
 modified: 2018-02-09, 14:00
 tags: [National Parks, BCNP, Bryce Canyon NP, Grandparents]
 comments: true
