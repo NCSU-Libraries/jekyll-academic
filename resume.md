@@ -2,7 +2,7 @@
 layout: resume
 ---
 
-> [Click to download my full CV](https://github.com/AldridgeCaleb/aldridgecaleb.github.io/blob/master/docs/Aldridge_CV_2018-02-07.pdf)
+> [Click to download my full CV](https://github.com/AldridgeCaleb/aldridgecaleb.github.io/blob/master/_docs/Aldridge_CV_2018-02-07.pdf)
 
 ## Current Position
 
