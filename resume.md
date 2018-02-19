@@ -50,7 +50,7 @@ _2017_
 
 [Watersheds: Role, importance, & stewardship.](http://extension.msstate.edu/sites/default/files/publications/publications/p3082.pdf) Aldridge & Baker. Mississippi State University Extension Service Publications p3082.
 
-[Water: Sink to sea](http://extension.msstate.edu/sites/default/files/publications/publications/p3074.pdf) Baker, Omer, & Aldridge. Mississippi State University Extension Service Publications p3074.
+[Water: Sink to sea.](http://extension.msstate.edu/sites/default/files/publications/publications/p3074.pdf) Baker, Omer, & Aldridge. Mississippi State University Extension Service Publications p3074.
 
 _2016_
 
