@@ -40,7 +40,7 @@ __Graduate Teaching Assistant | Ole Miss__ | _2014-2016_
     Guest lectured, proctored exams, and assigned grades
 
 
-## Research and Extension Articles
+## Research and Extension Articles  
 ### _Click titles for link to full text_
 
 _2018_
