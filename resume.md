@@ -2,7 +2,8 @@
 layout: resume
 ---
 
-> [Click here to download my full CV.](https://github.com/AldridgeCaleb/aldridgecaleb.github.io/blob/master/_docs/Aldridge_CV_2018-02-20.pdf)  Links to full texts are embedded in manuscript titles.
+> [Click here to download my full CV.](https://github.com/AldridgeCaleb/aldridgecaleb.github.io/blob/master/_docs/Aldridge_CV_2018-02-20.pdf)
+>Links to full texts are embedded in manuscript titles.
 
 ## Current Position
 
