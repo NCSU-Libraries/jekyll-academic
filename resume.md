@@ -41,7 +41,7 @@ __Graduate Teaching Assistant | Ole Miss__ | _2014-2016_
 
 
 ## Research and Extension Articles  
-### _Click titles for link to full text_
+### _Articles linked in titles_
 
 _2018_
 
