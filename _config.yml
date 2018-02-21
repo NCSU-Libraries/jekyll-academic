@@ -1,31 +1,30 @@
 # Site wide configuration
 
-title: Site Title
+title: Caleb A. Aldridge
 locale: en_US
-logo: # filename of a logo image that has been placed into your images directory
-
+logo: #none
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  name: Caleb A. Aldridge
+  avatar: The Naturalist.jpg
+  bio: "PhD Student and Graduate Research Assistant"
+  email: caa134@msstate.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
-  github: #username
+  github: aldridgecaleb
   orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
-  mendeley: #username
+  researchgate: Caleb_Aldridge
+  mendeley: caleb-aldridge
   google:
     plus: #username
     analytics:
     verify:
-    scholar: #id
-  facebook: #username
-  instagram: #username
-  bing-verify:
-  stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
+    scholar: 5LsAk6oAAAAJ&hl=en
+  facebook: caleb.aldridge
+  instagram: aldridgecaleb
+  bing-verify: #username
+  stackoverflow: 5557488/c-aldridge
   xing: #username
   lastfm: #username
   tumblr: #username
@@ -36,14 +35,14 @@ owner:
   youtube: #username
   soundcloud: #username
   weibo: #username
-  flickr: #username
+  flickr: caleb.a.aldridge
   codepen: #username
   disqus-shortname:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#CC0000'
-lowlight-color: '#000'
+highlight-color: '#196F3D'
+lowlight-color: '#6E2C00'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
@@ -72,3 +71,5 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+
+theme: jekyll-academic
