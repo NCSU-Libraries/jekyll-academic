@@ -1,5 +1,5 @@
 /*! Responsive Menu */
-// http://tympanus.net/codrops/2013/05/08/responsive-retina-ready-menu/
+// https://tympanus.net/codrops/2013/05/08/responsive-retina-ready-menu/
 //  The function to change the class
 var changeClass = function (r,className1,className2) {
   var regex = new RegExp("(?:^|\\s+)" + className1 + "(?:\\s+|$)");
@@ -19,7 +19,7 @@ menuElements.insertAdjacentHTML('afterBegin','<button type="button" role="button
 document.getElementById('menutoggle').onclick = function() {
   changeClass(this, 'navtoggle active', 'navtoggle');
 };
-// http://tympanus.net/codrops/2013/05/08/responsive-retina-ready-menu/comment-page-2/#comment-438918
+// https://tympanus.net/codrops/2013/05/08/responsive-retina-ready-menu/comment-page-2/#comment-438918
 document.onclick = function(e) {
   var mobileButton = document.getElementById('menutoggle'),
     buttonStyle =  mobileButton.currentStyle ? mobileButton.currentStyle.display : getComputedStyle(mobileButton, null).display;

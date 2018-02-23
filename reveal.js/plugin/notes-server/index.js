@@ -60,7 +60,7 @@ var brown = '\033[33m',
 	green = '\033[32m',
 	reset = '\033[0m';
 
-var slidesLocation = 'http://localhost' + ( opts.port ? ( ':' + opts.port ) : '' );
+var slidesLocation = 'https://localhost' + ( opts.port ? ( ':' + opts.port ) : '' );
 
 console.log( brown + 'reveal.js - Speaker Notes' + reset );
 console.log( '1. Open the slides at ' + green + slidesLocation + reset );
