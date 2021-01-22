@@ -33,7 +33,7 @@
     {% endif %}
 
     <!-- Code syntax highlighting -->
-    <link rel="stylesheet" href="{{ "/reveal.js/lib/css/zenburn.css" | prepend: site.github.url }}"/>
+    <link rel="stylesheet" href="{{ "/reveal.js/lib/css/monokai.css" | prepend: site.github.url }}"/>
 
     <!-- Printing and PDF exports -->
     <script>
@@ -61,7 +61,6 @@
       </div>
     </div>
 
-    <script src="{{ "/reveal.js/lib/js/head.min.js" | prepend: site.github.url }}"></script>
     <script src="{{ "/reveal.js/js/reveal.js" | prepend: site.github.url }}"></script>
     <script>
       // Full list of configuration options available at:
@@ -79,7 +78,6 @@
 
         // Optional reveal.js plugins
         dependencies: [
-          { src: '{{ "/reveal.js/lib/js/classList.js" | prepend: site.github.url }}', condition: function() { return !document.body.classList; } },
           { src: '{{ "/reveal.js/plugin/markdown/marked.js" | prepend: site.github.url }}', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
           { src: '{{ "/reveal.js/plugin/markdown/markdown.js" | prepend: site.github.url }}', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
           { src: '{{ "/reveal.js/plugin/highlight/highlight.js" | prepend: site.github.url }}', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
