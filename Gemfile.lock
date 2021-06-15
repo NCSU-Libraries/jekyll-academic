@@ -104,7 +104,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll
+  jekyll (~> 4.0)
   jekyll-gist
   jekyll-seo-tag
   jekyll-sitemap
