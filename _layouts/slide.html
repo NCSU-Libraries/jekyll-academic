@@ -25,24 +25,15 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
 
-    <link rel="stylesheet" href="{{ "/reveal.js/css/reveal.css" | prepend: site.github.url }}"/>
+    <link rel="stylesheet" href="{{ "/reveal.js/dist/reveal.css" | prepend: site.github.url }}"/>
     {%if page.theme %}
-      <link rel="stylesheet" href="{{ "/reveal.js/css/theme/" | prepend: site.github.url | append: page.theme | append: '.css' }}" id="theme"/>
+      <link rel="stylesheet" href="{{ "/reveal.js/dist/theme/" | prepend: site.github.url | append: page.theme | append: '.css' }}" id="theme"/>
     {% else %}
-      <link rel="stylesheet" href="{{ "/reveal.js/css/theme/black.css" | prepend: site.github.url }}" id="theme"/>
+      <link rel="stylesheet" href="{{ "/reveal.js/dist/theme/black.css" | prepend: site.github.url }}" id="theme"/>
     {% endif %}
 
     <!-- Code syntax highlighting -->
-    <link rel="stylesheet" href="{{ "/reveal.js/lib/css/monokai.css" | prepend: site.github.url }}"/>
-
-    <!-- Printing and PDF exports -->
-    <script>
-      var link = document.createElement( 'link' );
-      link.rel = 'stylesheet';
-      link.type = 'text/css';
-      link.href = window.location.search.match( /print-pdf/gi ) ? '{{ "/reveal.js/css/print/pdf.css" | prepend: site.github.url }}' : '{{ "/reveal.js/css/print/paper.css" | prepend: site.github.url }}';
-      document.getElementsByTagName( 'head' )[0].appendChild( link );
-    </script>
+    <link rel="stylesheet" href="{{ "/reveal.js/plugin/highlight/monokai.css" | prepend: site.github.url }}"/>
 
     <link rel="apple-touch-icon" href="{{ "/apple-touch-icon.png" | prepend: site.github.url }}" />
 
@@ -61,7 +52,7 @@
       </div>
     </div>
 
-    <script src="{{ "/reveal.js/js/reveal.js" | prepend: site.github.url }}"></script>
+    <script src="{{ "/reveal.js/dist/reveal.js" | prepend: site.github.url }}"></script>
     <script>
       // Full list of configuration options available at:
       // https://github.com/hakimel/reveal.js#configuration
@@ -78,10 +69,10 @@
 
         // Optional reveal.js plugins
         dependencies: [
-          { src: '{{ "/reveal.js/plugin/markdown/marked.js" | prepend: site.github.url }}', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+          //{ src: '{{ "/reveal.js/plugin/markdown/marked.js" | prepend: site.github.url }}', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
           { src: '{{ "/reveal.js/plugin/markdown/markdown.js" | prepend: site.github.url }}', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
           { src: '{{ "/reveal.js/plugin/highlight/highlight.js" | prepend: site.github.url }}', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
-          { src: '{{ "/reveal.js/plugin/zoom-js/zoom.js" | prepend: site.github.url }}', async: true },
+          { src: '{{ "/reveal.js/plugin/zoom/zoom.js" | prepend: site.github.url }}', async: true },
           { src: '{{ "/reveal.js/plugin/notes/notes.js" | prepend: site.github.url }}', async: true }
         ]
       });
