@@ -20,24 +20,24 @@
       <meta name="description" content="{{ site.description }}">
     {% endif %}
 
-    <meta name="apple-mobile-web-app-capable" content="yes" />
+    {# <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui"> #}
 
-    <link rel="stylesheet" href="{{ "/reveal.js/dist/reveal.css" | prepend: site.github.url }}"/>
+    <link rel="stylesheet" href="{{ "/reveal.js/dist/reveal.css" }}"/>
     {%if page.theme %}
-      <link rel="stylesheet" href="{{ "/reveal.js/dist/theme/" | prepend: site.github.url | append: page.theme | append: '.css' }}" id="theme"/>
+      <link rel="stylesheet" href="{{ "/reveal.js/dist/theme/" | append: page.theme | append: '.css' }}" id="theme"/>
     {% else %}
-      <link rel="stylesheet" href="{{ "/reveal.js/dist/theme/black.css" | prepend: site.github.url }}" id="theme"/>
+      <link rel="stylesheet" href="{{ "/reveal.js/dist/theme/white.css" }} "/>
     {% endif %}
 
     <!-- Code syntax highlighting -->
-    <link rel="stylesheet" href="{{ "/reveal.js/plugin/highlight/monokai.css" | prepend: site.github.url }}"/>
+    <link rel="stylesheet" href="{{ "/reveal.js/plugin/highlight/monokai.css" }}"/>
 
-    <link rel="apple-touch-icon" href="{{ "/apple-touch-icon.png" | prepend: site.github.url }}" />
+    {# <link rel="apple-touch-icon" href="{{ "/apple-touch-icon.png" | prepend: site.github.url }}" /> #}
 
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.github.url }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' }}">
 
     <!--[if lt IE 9]>
     <script src="lib/js/html5shiv.js"></script>
@@ -52,31 +52,26 @@
       </div>
     </div>
 
-    <script src="{{ "/reveal.js/dist/reveal.js" | prepend: site.github.url }}"></script>
+    <script src="{{ "/reveal.js/dist/reveal.js" }}"></script>
+    <script src="/reveal.js/plugin/markdown/markdown.js"></script>
+		<script src="/reveal.js/plugin/notes/notes.js"></script>
+		<script src="/reveal.js/plugin/markdown/markdown.js"></script>
+		<script src="/reveal.js/plugin/highlight/highlight.js"></script>
     <script>
       // Full list of configuration options available at:
-      // https://github.com/hakimel/reveal.js#configuration
+      // https://revealjs.com/config/
       Reveal.initialize({
+        plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ],
         controls: true,
         progress: true,
         history: true,
-        center: true,
         {%if page.transition %}
           transition: '{{page.transition}}',
         {% else %}
           transition: 'slide', // none/fade/slide/convex/concave/zoom
         {% endif %}
-
-        // Optional reveal.js plugins
-        dependencies: [
-          //{ src: '{{ "/reveal.js/plugin/markdown/marked.js" | prepend: site.github.url }}', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-          { src: '{{ "/reveal.js/plugin/markdown/markdown.js" | prepend: site.github.url }}', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-          { src: '{{ "/reveal.js/plugin/highlight/highlight.js" | prepend: site.github.url }}', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
-          { src: '{{ "/reveal.js/plugin/zoom/zoom.js" | prepend: site.github.url }}', async: true },
-          { src: '{{ "/reveal.js/plugin/notes/notes.js" | prepend: site.github.url }}', async: true }
-        ]
+        center: true
       });
-
     </script>
 
   </body>
