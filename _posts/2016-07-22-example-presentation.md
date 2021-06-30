@@ -6,7 +6,6 @@ excerpt: A sample file showing the correct markup for creating a Reveal.js slide
 transition: convex
 tags: [presentation]
 category: presentation
-modified: 6/15/2016, 2:38pm
 ---
 <section data-markdown>
   <textarea data-template>
