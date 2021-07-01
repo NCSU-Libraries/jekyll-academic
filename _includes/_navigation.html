@@ -9,13 +9,16 @@
 	<div class="top-navigation">
 		<nav role="navigation" id="site-nav" class="nav">
 		    <ul>
-		        {% for link in site.data.navigation %}
-				    {% if link.url contains 'http' %}
-				        {% assign domain = '' %}
-				        {% else %}
-				        {% assign domain = site.github.url %}
+		    	{% assign links = site.pages | where_exp: "item", "item.menuorder != nil" %}
+		    	{% assign alllinks = links | concat: site.data.navigation | sort: 'menuorder' %}
+		        {% for link in alllinks %}
+				    <li><a href="{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>
+				    {% if link.menutitle %}
+				    {{link.menutitle}}
+				    {% else %}
+				    {{ link.title }}
 				    {% endif %}
-				    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+				</a></li>
 				{% endfor %}
 		    </ul>
 		</nav>
