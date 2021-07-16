@@ -14,7 +14,7 @@
 		        {% for link in alllinks %}
 			    {{site.github.url}}
 			    	{% if link.menuorder %}{% assign url = link.url | prepend: site.github.url %}{% else %}{% assign url = link.url %}{% endif %}
-+                                   <li><a href="{{ url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>
+                                   <li><a href="{{ url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>
 				    {% if link.menutitle %}
 				    {{link.menutitle}}
 				    {% else %}
