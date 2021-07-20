@@ -7,6 +7,16 @@ By using this template you will have a website that is well designed, easy to ma
 ## [Getting Started Guide](https://ncsu-libraries.github.io/jekyll-academic-docs/)
 Complete documentation for getting started as well as advanced features of Jekyll Academic can be found at [https://ncsu-libraries.github.io/jekyll-academic-docs/](https://ncsu-libraries.github.io/jekyll-academic-docs/).
 
+## Migrating to a new default branch name
+We've decided to change this project's default branch name to 'main'.  If you've forked this repository prior to July 20th, 2021, then you should a message with update instructions when you go to your fork in github: 
+
+![fork renamed message](https://user-images.githubusercontent.com/3514165/126372022-ae4c07fa-dec7-427c-a4b5-cdd73aec75eb.png)
+
+In your fork on GitHub, go to the branches view, and click on the edit icon next to the 'master' branch.  Change the branch name to main.  Underneath the input box where you change the name you will be presented with the commands that you will need to run on your local copy of your fork.
+
+![local instructions for default branch name change ](https://user-images.githubusercontent.com/3514165/126372635-208fbc4b-698e-4938-bdae-5ff19eed2c96.png)
+
+
 ## Upgrade Notes for June 2021 release
 If you are running a fork of Jekyll Academic before June 2021, we made some breaking changes to upgrade the underlying Jekyll version and to address the constant github/dependabot security notices mentioned in issue #4.
 
