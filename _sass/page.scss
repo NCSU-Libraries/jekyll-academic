@@ -14,7 +14,7 @@ body {
 
 .navigation-wrapper {
 	@include container;
-	padding: 2em 0 1em;
+	padding: 1em 0 0;
 	font-family: $heading-font;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -22,7 +22,7 @@ body {
 	background-color: $jamuncolor;
 	border-bottom-style: solid;
 	border-bottom-color: $highlightcolor;
-	border-bottom-width: .5em;
+	border-bottom-width: 0.2em;
 }
 
 /* Site name */
