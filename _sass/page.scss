@@ -19,6 +19,7 @@ body {
 	font-weight: 700;
 	text-transform: uppercase;
 	@include clearfix;
+	background-color: $jamuncolor;
 	border-bottom-style: solid;
 	border-bottom-color: $highlightcolor;
 	border-bottom-width: .5em;
@@ -83,6 +84,13 @@ body {
 			border-bottom: 0 solid transparent;
 		}
 		a {
+			color: #ffffff;
+				&:visited {
+					color: #ffffff;
+				}
+				&:hover {
+					color: lighten($marigoldcolor, 10);
+				}
 			display: block;
 			padding: 10px 0;
 			decoration: none;
