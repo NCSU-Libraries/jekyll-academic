@@ -389,7 +389,7 @@ $button-size: 1.5rem;
 	display: none;
 	.bio-photo {
 		max-width: 110px;
-		@include rounded(150px);
+		@include rounded(10px);
 	}
 	@media #{$small} {
 		display: block;
@@ -418,7 +418,7 @@ $button-size: 1.5rem;
 		.bio-photo,
 		p,
 		.author-social {
-			max-width: 150px;
+			max-width: 200px;
 		}
 	}
 	@media #{$x-large} {
