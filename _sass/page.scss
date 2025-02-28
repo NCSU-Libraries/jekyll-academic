@@ -248,7 +248,7 @@ $button-size: 1.5rem;
 		@include grid(12,10);
 		@include prefix(12,1);
 		@include suffix(12,1);
-		margin-bottom: 1em;
+		margin-bottom: 2em;
 		@media #{$small} {
 			@include grid(12,6);
 			@include prefix(12,0);
