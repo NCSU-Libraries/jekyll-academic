@@ -7,24 +7,23 @@ menuorder: 1
 
 I am an Assistant Professor in the Department of [Electrical, Electronics, and Communications Engineering](http://ee.iitdh.ac.in) at the [Indian Institute of Technology at Dharwad](https://iitdh.ac.in/). I am a part of the [Power and Energy group](https://sites.google.com/iitdh.ac.in/peg-iitdh) where I conduct research in power electronics, renewable energy systems and electric mobility.
 
-Before moving to Dharwad, I was as a post-doctoral associate in 
- [Prof. Ned Mohan](http://z.umn.edu/nedmohan)'s group at the 
- [University of Minnesota, Twin Cities](http://umn.edu/) 
- and an ASTRO Research Fellow at the 
- [National Transportation Research Center](https://www.ornl.gov/facility/ntrc) 
- at the 
- [Oak Ridge National Lab](https://www.ornl.gov/), Tennessee.
+
+I completed my M. Tech. (Electronics Design) and Ph.D (Power Electronics and Drives) from the [Department of Electronic Systems Engineering](https://iitdh.ac.in/kabhijit/dese.iisc.ac.in) (formerly CEDT) at the [Indian Institute of Science, Bangalore](https://iitdh.ac.in/kabhijit/iisc.ac.in). I was a postdoctoral fellow in the US, at the [University of Minnesota, Twin Cities](http://umn.edu/) and at the [Oak Ridge National Lab](https://www.ornl.gov/), Tennessee.
 
 ### Research
 
 My work aims to enable equitable, sustainable and economical use of clean energy. My current focus areas include power electronic converter topologies and controls, grid-integration of renewables, and converters for electric vehicles.
 
-I am currently working on control schemes for modular converter topologies. I am also working on the development of a wide-bandgap converter for grid-connected applications. Simultaneously I am also working on development of open source software tools and firmware for power electronic applications (specifically gEDA/gaf, pcb-rnd, ngspice and associated packages).
+I am currently working on control schemes for modular converter topologies, soft-switched converters and power converters for EV chargers. The work is hardware-focused: we develop new topologies and control schemes, built converter prototypes, and implement the controllers using
+microcontrollers, DSPs and FPGAs. We also have a high-end Power Hardware-in-Loop platform which we
+use for our work on Grid-tied inverters.
+
+This work is supported by generous grants from DST and ANRF (erstwhile SERB), along with substantial support from several industry partners.
 
 
 ### Training and Consultancy
 
-I work with industry partners on a wide variety of collaborative efforts. Please email me with your specific requirements for more information. [Here](https://iitdh.ac.in/kabhijit/consultancy.html) are some additional details.
+I work with industry partners on a wide variety of collaborative efforts. Please email me with your specific requirements for more information. [Here](/consultancy/) are some additional details.
 
 ### Teaching
 
@@ -73,7 +72,7 @@ I work with industry partners on a wide variety of collaborative efforts. Please
 *   System Design of Electronic Products
     
 
-This course will cover many of the design choices and decisions that product designers face. How much capacitance is needed on the DC bus? Will this design pass EMI testing? How will this op-amp drift with time? Are those gold-plated connectors really worth it? Is one 6.8k resistor better than two 3.3k resistors? Can it _really_ be fixed later in software?
+This course will cover many of the design choices and decisions that product designers face. How much capacitance is needed on the DC bus? Will this design pass EMI testing? How will this op-amp drift with time? Are those gold-plated connectors really worth it? Is one 6.8k resistor better than two 3.3k resistors? Can it _really_ be fixed later in software?
 
 *   Advanced topics in Power Conversion
     
