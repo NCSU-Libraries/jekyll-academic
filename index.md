@@ -29,58 +29,9 @@ I teach theory and laboratory courses at the undergraduate and postgraduate leve
 I work with industry partners on a wide variety of collaborative efforts. Please email me with your specific requirements for more information. [Here](/consultancy/) are some additional details.
 
 
-###### Autumn 2022
-
-*   EE311: Electrical Machines and Power Electronics Lab
-    
-*   Introduction to Electric Drives (ii) \[Executive M. Tech\]
-    
-
-###### Spring 2022
-
-*   EE209: Introduction to Power Electronics
-    
-*   EE502: Advanced Electric Drives
-    
-*   EE442: System Design of Electronic Products
-    
-
-###### Autumn 2021
-
-*   EE205: Network Theory
-    
-*   EE311: Electrical Machines and Power Electronics Lab
-    
-
-###### Spring 2021
-
-*   EE209: Introduction to Power Electronics
-    
-*   EE434: Modelling and Control of Power Electronics
-    
-
-###### Autumn 2020
-
-*   EE205: Network Theory
-    
-
-###### Spring 2020
-
-*   EE223: Introduction to Power Systems (Second-Half Semester Course)
-    
-
-###### _Upcoming Courses (under development)_
-
-*   System Design of Electronic Products
-    
-
-This course will cover many of the design choices and decisions that product designers face. How much capacitance is needed on the DC bus? Will this design pass EMI testing? How will this op-amp drift with time? Are those gold-plated connectors really worth it? Is one 6.8k resistor better than two 3.3k resistors? Can it _really_ be fixed later in software?
-
-*   Advanced topics in Power Conversion
-    
-
-This will be a graduate topics course covering advanced topics in power conversion topologies, such as power semiconductor device characteristics and behaviour, advanced concepts in design of magnetics for power converters; resonant, soft switching and wireless power transer.
-
 ### Outreach
 
-I have worked with grassroots organisations and non-profits in Bangalore and Minneapolis/St. Paul for public education on energy and renewables, and helping with community engagement. If you are involved with such efforts, especially in North Karnataka, I would love to know more and get involved.
+I work with several grassroots organisations and non-profits in Karnataka
+in the field of sustainability and education. Many of these activities are
+supported by generous CSR contributions from companies including
+Honeywell, Enphase, Toshiba and Infineon.
