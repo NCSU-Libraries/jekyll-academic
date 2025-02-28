@@ -20,12 +20,14 @@ use for our work on Grid-tied inverters.
 
 This work is supported by generous grants from DST and ANRF (erstwhile SERB), along with substantial support from several industry partners.
 
+### Teaching
+
+I teach theory and laboratory courses at the undergraduate and postgraduate level in Power Electronics, Drives, Renewable Energy, Electric Vehicles, and Embedded Control. For more details see [here](/teaching.html) 
 
 ### Training and Consultancy
 
 I work with industry partners on a wide variety of collaborative efforts. Please email me with your specific requirements for more information. [Here](/consultancy/) are some additional details.
 
-### Teaching
 
 ###### Autumn 2022
 
