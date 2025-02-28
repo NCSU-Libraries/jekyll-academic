@@ -1,6 +1,6 @@
 ---
 layout: resume
-menuorder: 2
+menuorder: 4
 menutitle: Consultancy
 ---
 
