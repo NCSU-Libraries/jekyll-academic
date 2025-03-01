@@ -1,5 +1,5 @@
 ---
-layout: xpage
+layout: page
 excerpt: "Translation"
 menutitle: Translation
 menuorder: 

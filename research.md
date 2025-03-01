@@ -1,5 +1,5 @@
 ---
-layout: xpage
+layout: page
 excerpt: "Research"
 menutitle: Research
 menuorder: 2
