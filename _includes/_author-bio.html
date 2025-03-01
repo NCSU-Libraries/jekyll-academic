@@ -11,8 +11,10 @@
 {% endif %}
 
   <h3 itemprop="name">{{ author.name }}</h3>
-  <p>{{ author.bio }}</p>
-  {% if author.email %}<a href="mailto:{{ author.email }}" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>{% endif %}
+  <p  style="font-size: 16px" class="text-left" >{{ author.bio }}</p>
+  
+  {% if author.email %}<a class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> {{ author.email }} </a>{% endif %}
+  
   {% if author.twitter %}<a href="https://twitter.com/{{ author.twitter }}" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>{% endif %}
   {% if author.facebook %}<a href="https://facebook.com/{{ author.facebook }}" class="author-social" target="_blank"><i class="fa fa-fw fa-facebook-square"></i> Facebook</a>{% endif %}
   {% if author.google.plus %}<a href="https://plus.google.com/+{{ author.google.plus }}" class="author-social" target="_blank"><i class="fa fa-fw fa-google-plus-square"></i> Google+</a>{% endif %}
@@ -37,23 +39,6 @@
   {% if author.mendeley %}<a href="https://www.mendeley.com/profiles/{{ author.mendeley }}" class="author-social" target="_blank"><i class="ai ai-fw ai-mendeley"></i> Mendeley</a>{% endif %}
   {% if author.orcid %}<a href="https://orcid.org/{{ author.orcid }}" class="author-social" target="_blank"><i class="ai ai-fw ai-orcid"></i> ORCID</a>{% endif %}
 
-  <p><strong>Other Links:</strong></p>
-    <a href="https://gitea.iitdh.ac.in/kabhijit/">My Git Repo (GiTEA@IITDH)</a> <br>
-    <!-- <a href="https://www.linkedin.com/in/abhijitkshirsagar/">LinkedIn</a> -->
-    <a href="https://sites.google.com/iitdh.ac.in/kabhijit-local/">GSite (needs iitdh login)</a>
-        <!-- <a href="https://kabhijit.net">My personal website</a> -->
-
-        <br>
-        <br>
-
-        <p style="font-size: 14px" class="text-left">
-            तत्कर्म यन्न बन्धाय सा विद्या या विमुक्तये।
-            आयासायापरं कर्म विद्यान्या शिल्पनैपुणम्‌॥
-            <!-- See end the bottom of this html file for translation -->
-        </p>
-        <p style="font-size: 14px" class="text-left">
-
-            <a style="color:#b5bec9;font-size:0.8em; float:left;" href="translation/" target="_blank">Translation</a>
-        </p>
+{% include _additional_links_leftpane.html %}
 
 </div>

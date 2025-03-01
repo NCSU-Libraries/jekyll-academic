@@ -8,8 +8,8 @@ logo: logo.png # filename of a logo image that has been placed into your images 
 owner:
   name: Abhijit Kshirsagar
   avatar: kAbhijit_02_600px.jpg
-  bio: "✉: kabhijit at iitdh.ac.in <br> Asst. Professor <br>Dept. of EECE<br> Indian Institute of Technology<br>Dharwad, Karnataka"
-  #email: kabhijit@iitdh.ac.in
+  bio: "Asst. Professor <br>Dept. of EECE<br> Indian Institute of Technology<br>Dharwad, Karnataka"
+  email: kabhijit [at] iitdh.ac.in
   # Do not include the @ symbol in your Twitter username
   twitter: peg_iitdh
   linkedin: abhijitkshirsagar
