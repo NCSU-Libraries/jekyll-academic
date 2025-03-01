@@ -6,9 +6,11 @@ menuorder: 1
 ---
 
 I am an Assistant Professor in the Department of [Electrical, Electronics, and Communications Engineering](http://ee.iitdh.ac.in) at the [Indian Institute of Technology at Dharwad](https://iitdh.ac.in/). I am a part of the [Power and Energy group](https://sites.google.com/iitdh.ac.in/peg-iitdh) where I conduct research in power electronics, renewable energy systems and electric mobility.
+Since November 2024, I am serving as the 
+Karnataka Renewable Energy Development Limited --
+Renewable Energy Research **(KREDL-RER)** Assistant Chair Professor.
 
-
-I completed my M. Tech. (Electronics Design) and Ph.D (Power Electronics and Drives) from the [Department of Electronic Systems Engineering](https://iitdh.ac.in/kabhijit/dese.iisc.ac.in) (formerly CEDT) at the [Indian Institute of Science, Bangalore](https://iitdh.ac.in/kabhijit/iisc.ac.in). I was a postdoctoral fellow in the US, at the [University of Minnesota, Twin Cities](http://umn.edu/) and at the [Oak Ridge National Lab](https://www.ornl.gov/), Tennessee.
+[//]: # I completed my M. Tech. (Electronics Design) and Ph.D (Power Electronics and Drives) from the [Department of Electronic Systems Engineering](https://iitdh.ac.in/kabhijit/dese.iisc.ac.in) (formerly CEDT) at the [Indian Institute of Science, Bangalore](https://iitdh.ac.in/kabhijit/iisc.ac.in). I was a postdoctoral fellow in the US, at the [University of Minnesota, Twin Cities](http://umn.edu/) and at the [Oak Ridge National Lab](https://www.ornl.gov/), Tennessee.
 
 ### Research
 
